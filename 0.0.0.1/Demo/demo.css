@@ -1,0 +1,43 @@
+caption.table_one {
+    height: auto;
+    background-color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+caption.table_two {
+    height: auto;
+    background-color: goldenrod;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+caption.table_three {
+    height: auto;
+    background-color: limegreen;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+tr.even {
+    background-color: #e6e6e6;
+}
+
+th {
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: #e6e6e6;
+}
+
+td.center {
+    text-align: center;
+}
+
+td.middlecolumn {
+    padding-left: 2px;
+    padding-right: 2px;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-width: 2px;
+    border-color: #e6e6e6;
+}
